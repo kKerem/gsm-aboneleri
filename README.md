@@ -1,1 +1,1 @@
-# -gsm-aboneleri
+# gsm-aboneleri
